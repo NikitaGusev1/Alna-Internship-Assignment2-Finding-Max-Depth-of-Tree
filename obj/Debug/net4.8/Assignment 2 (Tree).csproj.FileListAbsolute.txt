@@ -1,0 +1,9 @@
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 2 (Tree)\bin\Debug\net4.8\Assignment 2 (Tree).exe.config
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 2 (Tree)\bin\Debug\net4.8\Assignment 2 (Tree).exe
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 2 (Tree)\bin\Debug\net4.8\Assignment 2 (Tree).pdb
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 2 (Tree)\obj\Debug\net4.8\Assignment 2 (Tree).csprojAssemblyReference.cache
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 2 (Tree)\obj\Debug\net4.8\Assignment 2 (Tree).AssemblyInfoInputs.cache
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 2 (Tree)\obj\Debug\net4.8\Assignment 2 (Tree).AssemblyInfo.cs
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 2 (Tree)\obj\Debug\net4.8\Assignment 2 (Tree).csproj.CoreCompileInputs.cache
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 2 (Tree)\obj\Debug\net4.8\Assignment 2 (Tree).exe
+C:\Users\nik\Desktop\Alna Software Internship\Assignment 2 (Tree)\obj\Debug\net4.8\Assignment 2 (Tree).pdb
